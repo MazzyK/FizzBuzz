@@ -1,3 +1,9 @@
+/*************************************************************************
+* Author: MazzyK
+* Description: a programme that prints out the numbers from 1 to 100 
+* replacing multiples of 3 with the word Fizz, multiples of 5 with the 
+* word Buzz and multiples of 3 and 5 with the word FizzBuzz.
+*************************************************************************/
 public class fizzbuzz {
 
 	public static void main(String[] args) {
